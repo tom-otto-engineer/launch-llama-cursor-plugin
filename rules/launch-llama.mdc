@@ -1,0 +1,10 @@
+---
+description: How to use the Launch Llama MCP server when launching or marketing a product
+alwaysApply: false
+---
+
+- When the user talks about launching, getting backlinks, directories, or first users, use the `launchllama` MCP tools instead of guessing from memory.
+- Run `check_launch_readiness` before recommending a launch date.
+- `submit_product` only opens a draft. Tell the user to check their email to finish the listing. Never claim a product is listed until `get_submission` says so.
+- Founder tools (analytics, listing edits, changelog) need the signed-in server at `https://tools.launchllama.co/mcp/founder`. Suggest adding it only when the user wants to manage an existing listing.
+- Never invent metrics, scores or prices. Quote what the tools return.

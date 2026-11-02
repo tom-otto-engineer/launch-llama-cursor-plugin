@@ -1,0 +1,14 @@
+{
+  "name": "launch-llama",
+  "displayName": "Launch Llama",
+  "version": "1.0.0",
+  "description": "Launch your product from Cursor: audit launch readiness, plan a directory campaign, search the Launch Llama tools directory and open a listing draft.",
+  "author": { "name": "Launch Llama", "url": "https://tools.launchllama.co" },
+  "homepage": "https://tools.launchllama.co",
+  "repository": "https://github.com/tom-otto-engineer/launch-llama-cursor-plugin",
+  "license": "MIT",
+  "keywords": ["launch", "product-launch", "startup", "marketing", "seo", "backlinks", "directories", "saas", "mcp"],
+  "mcpServers": "./mcp.json",
+  "skills": "./skills/",
+  "rules": "./rules/"
+}

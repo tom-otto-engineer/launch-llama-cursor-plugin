@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "launchllama": {
+      "type": "http",
+      "url": "https://tools.launchllama.co/mcp"
+    }
+  }
+}
